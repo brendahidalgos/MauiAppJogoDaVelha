@@ -36,4 +36,4 @@ Abra e Restaure: Abra o arquivo de solução (.sln) no Visual Studio, que restau
 Rodar o Jogo: Selecione a plataforma desejada e clique em "Executar" (ou F5) para compilar e implantar o aplicativo.
 
 ## ✍️ Autor
-@brendahidalgos - Aluno do curso de Análise e Desenvolvimento de Sistemas.
+@brendahidalgos - Aluna do curso de Análise e Desenvolvimento de Sistemas.
