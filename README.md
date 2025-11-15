@@ -45,7 +45,7 @@ Siga estas instruções para configurar e rodar o jogo em seu ambiente de desenv
 3.  **Rodar o Jogo:**
     * Selecione a plataforma desejada na barra de ferramentas.
     * Clique em "**Executar**" (ou use a tecla **F5**) para compilar e implantar o aplicativo.
-
+---
 ## 👩‍💻 Desenvolvido em
 
 * **Curso Técnico em Desenvolvimento de Sistemas**
